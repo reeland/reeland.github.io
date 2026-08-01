@@ -1,0 +1,1 @@
+import{s as e}from"./DZeOpwL-.js";function t(){return String(e().public.appName||`Reeland`)}export{t};
