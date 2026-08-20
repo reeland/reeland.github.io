@@ -1,0 +1,1 @@
+import{g as e}from"./C3_Jbgii.js";import{c as t,u as n}from"./BJ0R6C_E.js";import{n as r,t as i}from"./WdKuMhOq.js";var a=t(async t=>{let a,o,s=i();if(s.initialized||([a,o]=e(()=>s.init()),a=await a,o()),s.isAuthenticated)return n(r(t.query.redirect))},1);export{a as default};
