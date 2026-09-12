@@ -1,0 +1,1 @@
+import{N as e,Un as t}from"./C3_Jbgii.js";import{c as n}from"./s4PmpA86.js";function r(r){return e(()=>!t(r)||!!n(r)?.closest(`form`))}export{r as t};
