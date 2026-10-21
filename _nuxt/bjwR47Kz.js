@@ -1,0 +1,1 @@
+var e=[`watching`,`planned`,`watched`,`dropped`];function t(e){return e!==`custom`}function n(t){let n=e.indexOf(t);return n===-1?e.length:n}function r(e,n){if(n.length)return e.find(e=>t(e.kind)&&n.includes(e.id))}function i(e,n){return n.length?e.some(e=>!t(e.kind)&&n.includes(e.id)):!1}export{n as a,t as i,r as n,i as r,e as t};

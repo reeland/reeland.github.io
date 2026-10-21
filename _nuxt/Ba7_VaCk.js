@@ -1,0 +1,1 @@
+import{N as e,Un as t}from"./MIEuhXB2.js";import{F as n,g as r}from"./CaU6ku4P.js";function i(e){return e==null}function a(n){return e(()=>!t(n)||!!r(n)?.closest(`form`))}var[o,s]=n(`FieldRoot`);export{a as n,i as r,o as t};
