@@ -1,0 +1,1 @@
+import{l as e,s as t}from"./BB68B1Te.js";import{v as n,y as r}from"#entry";var i=t(async t=>{let i=n();if(i.initialized||await i.init(),i.isAuthenticated)return e(r(t.query.redirect))});export{i as default};

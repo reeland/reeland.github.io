@@ -1,0 +1,1 @@
+import{i as e,n as t}from"./DrnBKh2D.js";import{r as n}from"./B1pWq_8F.js";var r=`reeland_settings`,i={preferredPlayer:void 0,commentsEnabled:!0},a=t(`settings`,()=>{let t=e(n(r,{...i},{deep:!0,initOnMounted:!0,mergeDefaults:!0,onError:e=>{}}));function a(e,n){t.value[e]=n}return{settings:t,update:a}});export{a as t};

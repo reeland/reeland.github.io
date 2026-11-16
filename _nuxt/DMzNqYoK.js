@@ -1,0 +1,1 @@
+import{z as e}from"./CGnVVtc7.js";function t(t=e()){let n=t;n&&!n.sp&&(n.sp=[])}export{t};

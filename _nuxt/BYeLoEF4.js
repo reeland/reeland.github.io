@@ -1,0 +1,1 @@
+import{c as e}from"./CGnVVtc7.js";function t(){return String(e().public.appName||`Reeland`)}export{t};
